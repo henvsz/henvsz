@@ -1,4 +1,4 @@
-<h1 align="center">Olá, eu sou o Wiler 👋</h1>
+<h1 align="center">Olá, eu sou o Henrique 👋</h1>
 
 <p align="center">
   Estudante de Informática com ênfase em Front-End<br>
