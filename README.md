@@ -1,7 +1,7 @@
 <h1 align="center">Olá, eu sou o Henrique 👋</h1>
 
 <p align="center">
-  Estudante de Informática com ênfase em Front-End<br>
+  Estudante de Informática<br>
   Transformando experiência em operações fiscais em carreira na tecnologia
 </p>
 
