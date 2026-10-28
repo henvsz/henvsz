@@ -46,14 +46,6 @@
 | [Sibels Elegance (ERP)](https://github.com/SEU-USUARIO/NOME-REPO) | Modelagem de dados e normalização de um sistema ERP |
 | [Site sobre Sustentabilidade](https://github.com/SEU-USUARIO/NOME-REPO) | Site com 10 páginas em HTML5 e CSS sobre impacto social |
 
-## 🐍 Minhas contribuições
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SEU-USUARIO/SEU-USUARIO/output/github-snake-dark.svg" />
-    <img alt="Cobrinha comendo meu gráfico de contribuições" src="https://raw.githubusercontent.com/SEU-USUARIO/SEU-USUARIO/output/github-snake.svg" />
-  </picture>
-</p>
 ## 📊 Estatísticas
 
 <p align="center">
