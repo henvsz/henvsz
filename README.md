@@ -52,13 +52,14 @@ Trabalho como **auxiliar fiscal**, cargo que conquistei após ser promovido de a
 | [Sibels Elegance (ERP)](https://github.com/henvsz/NOME-REPO) | Modelagem de dados e normalização de um sistema ERP |
 | [Site sobre Sustentabilidade](https://github.com/henvsz/NOME-REPO) | Site com 10 páginas em HTML5 e CSS3 sobre impacto social |
 
-<!--
 ## 🐍 Minhas contribuições
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/henvsz/henvsz/output/github-snake.svg" alt="Cobrinha das contribuições" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/henvsz/henvsz/output/github-snake-dark.svg" />
+    <img alt="Cobrinha comendo meu gráfico de contribuições" src="https://raw.githubusercontent.com/henvsz/henvsz/output/github-snake.svg" />
+  </picture>
 </p>
--->
 
 ## 📊 GitHub
 
