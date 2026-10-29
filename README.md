@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2F81F7&center=true&vCenter=true&width=500&lines=Ol%C3%A1,+eu+sou+o+Henrique;Estudante+de+Inform%C3%A1tica;Futuro+Dev+Front-End" alt="Olá, eu sou o Henrique" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2F81F7&center=true&vCenter=true&width=500&lines=Ol%C3%A1,+eu+sou+o+Henrique;" alt="Olá, eu sou o Henrique" />
 </h1>
 
 <p align="center">
