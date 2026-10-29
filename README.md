@@ -1,73 +1,47 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2F81F7&center=true&vCenter=true&width=500&lines=Ol%C3%A1,+eu+sou+o+Henrique;Estudante+de+Inform%C3%A1tica;Futuro+Dev+Front-End" alt="Olá, eu sou o Henrique" />
-</h1>
+<h2 data-importer="text" align="left">Olá 👋! Meu nome é Henrique e sou estudante de ADS na UNICID, de São Paulo, Brasil.</h2>
 
-<p align="center">
-  Transformando experiência em operações fiscais em carreira na tecnologia
-</p>
+<p align="left">Adoro criar interfaces limpas e responsivas com HTML, CSS e JavaScript, e estou sempre aprendendo algo novo. No momento, estou mergulhando no Python 🚀</p>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/henrique-vieira-930a42429">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:seuemail@exemplo.com">
-    <img src="https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
+###
 
----
+<div data-importer="stats" align="center">
+  <img src="https://raw.githubusercontent.com/henvsz/henvsz/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=pt-br&hide_border=false" height="150" alt="gráfico de estatísticas"  />
+  <img src="https://raw.githubusercontent.com/henvsz/henvsz/languages-output/languages.svg?locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="gráfico de linguagens"  />
+</div>
 
-## 👨‍💻 Sobre mim
+###
 
-Sou estudante de **Informática com ênfase em Front-End** na **UNICID** e estou construindo minha transição para a tecnologia.
+<div data-importer="techs" align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="logo do javascript"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="logo do typescript"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="logo do react"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="logo do html5"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="logo do css3"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="logo do python"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="logo do csharp"  />
+</div>
 
-Trabalho como **auxiliar fiscal**, cargo que conquistei após ser promovido de auxiliar de loja. Essa rotina me ensinou atenção aos detalhes, responsabilidade com prazos e cuidado com a precisão dos dados, qualidades que levo para o código.
+###
 
-- 🎯 **Objetivo:** minha primeira oportunidade como desenvolvedor Front-End
-- 🌱 **Foco atual:** JavaScript, Python e boas práticas com Git e GitHub
-- 📍 São Paulo, SP
+<div data-importer="socials" align="left">
+  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="logo do youtube"  />
+  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="logo do instagram"  />
+  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="logo da twitch"  />
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="logo do discord"  />
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="logo do gmail"  />
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="logo do linkedin"  />
+</div>
 
-## 🛠️ Tecnologias
+###
 
-<p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</p>
+<br clear="both">
 
-## 📚 Estudando agora
+<img data-importer="snake" src="https://raw.githubusercontent.com/henvsz/henvsz/snake-output/snake.svg" alt="Animação da cobrinha" />
 
-<p>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-</p>
-
-## 🚀 Projetos
-
-| Projeto | Descrição |
-|---|---|
-| [Sibels Elegance (ERP)](https://github.com/henvsz/NOME-REPO) | Modelagem de dados e normalização de um sistema ERP |
-| [Site sobre Sustentabilidade](https://github.com/henvsz/NOME-REPO) | Site com 10 páginas em HTML5 e CSS3 sobre impacto social |
-
-## 🐍 Minhas contribuições
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/henvsz/henvsz/output/github-snake-dark.svg" />
-    <img alt="Cobrinha comendo meu gráfico de contribuições" src="https://raw.githubusercontent.com/henvsz/henvsz/output/github-snake.svg" />
-  </picture>
-</p>
-
-## 📊 GitHub
-
-<p align="center">
-  <img src="https://img.shields.io/github/followers/henvsz?style=for-the-badge&logo=github&label=Seguidores" />
-  <img src="https://img.shields.io/github/stars/henvsz?style=for-the-badge&logo=github&label=Estrelas" />
-</p>
-
----
-
-<p align="center">⭐ Obrigado por visitar meu perfil!</p>
+###
