@@ -47,29 +47,26 @@ Trabalho como **auxiliar fiscal**, cargo que conquistei após ser promovido de a
 
 ## 🚀 Projetos
 
-| Projeto | Descrição | Tecnologias |
-|---|---|---|
-| [Sibels Elegance (ERP)](https://github.com/henvsz/NOME-REPO) | Modelagem de dados e normalização de um sistema ERP | Modelagem de dados |
-| [Site sobre Sustentabilidade](https://github.com/henvsz/NOME-REPO) | Site com 10 páginas sobre impacto social | HTML5, CSS3 |
+| Projeto | Descrição |
+|---|---|
+| [Sibels Elegance (ERP)](https://github.com/henvsz/NOME-REPO) | Modelagem de dados e normalização de um sistema ERP |
+| [Site sobre Sustentabilidade](https://github.com/henvsz/NOME-REPO) | Site com 10 páginas em HTML5 e CSS3 sobre impacto social |
 
+<!--
 ## 🐍 Minhas contribuições
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/henvsz/henvsz/output/github-snake-dark.svg" />
-    <img alt="Cobrinha comendo meu gráfico de contribuições" src="https://raw.githubusercontent.com/henvsz/henvsz/output/github-snake.svg" />
-  </picture>
+  <img src="https://raw.githubusercontent.com/henvsz/henvsz/output/github-snake.svg" alt="Cobrinha das contribuições" />
 </p>
+-->
 
-## 📊 Estatísticas
+## 📊 GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=henvsz&show_icons=true&theme=transparent" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=henvsz&layout=compact&theme=transparent" height="150" />
+  <img src="https://img.shields.io/github/followers/henvsz?style=for-the-badge&logo=github&label=Seguidores" />
+  <img src="https://img.shields.io/github/stars/henvsz?style=for-the-badge&logo=github&label=Estrelas" />
 </p>
 
 ---
 
 <p align="center">⭐ Obrigado por visitar meu perfil!</p>
-
-
