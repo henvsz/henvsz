@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2F81F7&center=true&vCenter=true&width=500&lines=Olá,+eu+sou+o+Henrique+👋;Estudante+de+Informática;Futuro+Dev+Front-End" alt="Olá, eu sou o Henrique" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2F81F7&center=true&vCenter=true&width=500&lines=Ol%C3%A1,+eu+sou+o+Henrique;Estudante+de+Inform%C3%A1tica;Futuro+Dev+Front-End" alt="Olá, eu sou o Henrique" />
 </h1>
 
 <p align="center">
@@ -49,26 +49,27 @@ Trabalho como **auxiliar fiscal**, cargo que conquistei após ser promovido de a
 
 | Projeto | Descrição | Tecnologias |
 |---|---|---|
-| [Sibels Elegance (ERP)](https://github.com/SEU-USUARIO/NOME-REPO) | Modelagem de dados e normalização de um sistema ERP | Modelagem de dados |
-| [Site sobre Sustentabilidade](https://github.com/SEU-USUARIO/NOME-REPO) | Site com 10 páginas sobre impacto social | HTML5, CSS3 |
+| [Sibels Elegance (ERP)](https://github.com/henvsz/NOME-REPO) | Modelagem de dados e normalização de um sistema ERP | Modelagem de dados |
+| [Site sobre Sustentabilidade](https://github.com/henvsz/NOME-REPO) | Site com 10 páginas sobre impacto social | HTML5, CSS3 |
 
 ## 🐍 Minhas contribuições
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SEU-USUARIO/SEU-USUARIO/output/github-snake-dark.svg" />
-    <img alt="Cobrinha comendo meu gráfico de contribuições" src="https://raw.githubusercontent.com/SEU-USUARIO/SEU-USUARIO/output/github-snake.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/henvsz/henvsz/output/github-snake-dark.svg" />
+    <img alt="Cobrinha comendo meu gráfico de contribuições" src="https://raw.githubusercontent.com/henvsz/henvsz/output/github-snake.svg" />
   </picture>
 </p>
 
 ## 📊 Estatísticas
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&theme=transparent" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO&layout=compact&theme=transparent" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=henvsz&show_icons=true&theme=transparent" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=henvsz&layout=compact&theme=transparent" height="150" />
 </p>
 
 ---
 
 <p align="center">⭐ Obrigado por visitar meu perfil!</p>
+
 
