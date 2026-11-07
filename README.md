@@ -1,72 +1,91 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2F81F7&center=true&vCenter=true&width=500&lines=Ol%C3%A1,+eu+sou+o+Henrique;" alt="Olá, eu sou o Henrique" />
-</h1>
+<div align="center">
 
-<p align="center">
-  Transformando experiência em operações fiscais em carreira na tecnologia
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a8a,100:7c3aed&height=200&section=header&text=Henrique%20Vieira&fontSize=52&fontColor=ffffff&desc=Desenvolvedor%20%E2%80%A2%20Banco%20de%20Dados%20%E2%80%A2%20Front-End&descSize=18&descAlignY=68" width="100%" />
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/henrique-vieira-930a42429">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:seuemail@exemplo.com">
-    <img src="https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
+<a href="https://github.com/henvsz">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&pause=1000&color=60A5FA&center=true&vCenter=true&width=520&lines=Desenvolvedor+apaixonado+por+dados;Estudante+de+An%C3%A1lise+e+Desenvolvimento+de+Sistemas;Sempre+aprendendo+e+evoluindo" alt="Typing SVG" />
+</a>
+
+<br/>
+
+<a href="mailto:SEU-EMAIL@gmail.com"><img src="https://img.shields.io/badge/GMAIL-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/SEU-LINKEDIN/"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
+<img src="https://komarev.com/ghpvc/?username=henvsz&label=VISITAS&color=7c3aed&style=flat-square" />
+
+</div>
 
 ---
 
 ## 👨‍💻 Sobre mim
 
-Sou estudante de **Informática com ênfase em Front-End** na **UNICID** e estou construindo minha transição para a tecnologia.
+Sou desenvolvedor e acredito que todo bom sistema nasce antes da primeira linha de código: entendendo o problema, ouvindo quem vai usar e modelando os dados do jeito certo. A partir daí, transformo ideias em soluções funcionais, organizadas e simples de usar.
 
-Trabalho como **auxiliar fiscal**, cargo que conquistei após ser promovido de auxiliar de loja. Essa rotina me ensinou atenção aos detalhes, responsabilidade com prazos e cuidado com a precisão dos dados, qualidades que levo para o código.
-
-- 🎯 **Objetivo:** minha primeira oportunidade como desenvolvedor Front-End
-- 🌱 **Foco atual:** JavaScript, Python e boas práticas com Git e GitHub
-- 📍 São Paulo, SP
-
-## 🛠️ Tecnologias
-
-<p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</p>
-
-## 📚 Estudando agora
-
-<p>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-</p>
-
-## 🚀 Projetos
-
-| Projeto | Descrição |
-|---|---|
-| [Sibels Elegance (ERP)](https://github.com/henvsz/NOME-REPO) | Modelagem de dados e normalização de um sistema ERP |
-| [Site sobre Sustentabilidade](https://github.com/henvsz/NOME-REPO) | Site com 10 páginas em HTML5 e CSS3 sobre impacto social |
-
-<!--
-## 🐍 Minhas contribuições
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/henvsz/henvsz/output/github-snake.svg" alt="Cobrinha das contribuições" />
-</p>
--->
-
-## 📊 GitHub
-
-<p align="center">
-  <img src="https://img.shields.io/github/followers/henvsz?style=for-the-badge&logo=github&label=Seguidores" />
-  <img src="https://img.shields.io/github/stars/henvsz?style=for-the-badge&logo=github&label=Estrelas" />
-</p>
+```js
+const henrique = {
+  cargo: "Desenvolvedor",
+  foco: ["Banco de Dados", "Modelagem de Dados", "Front-End"],
+  stack: ["HTML", "CSS", "Java", "C", "SQL"],
+  estudando: "Análise e Desenvolvimento de Sistemas na UNICID",
+  aprendendo: "Um pouco mais a cada dia 🚀",
+  curiosidade: "Quero criar meu próprio jogo da cobrinha 🐍",
+  contato: "SEU-EMAIL@gmail.com",
+};
+```
 
 ---
 
-<p align="center">⭐ Obrigado por visitar meu perfil!</p>
+## ⚡ O que eu faço
+
+| 🗄️ Banco de Dados | ⚙️ Back-end | 🌐 Web |
+| :---: | :---: | :---: |
+| Modelagem (DER), levantamento de requisitos e normalização de bancos relacionais | Regras de negócio e lógica de sistemas com Java e C | Interfaces com HTML e CSS, com atenção à acessibilidade |
+
+---
+
+## 🛠️ Tecnologias
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+
+</div>
+
+---
+
+## 🚀 Projetos em destaque
+
+| Projeto | Sobre | Pilha |
+| :--- | :--- | :--- |
+| 💎 **Sistema ERP — Sibels Elegance** | Projeto Integrador de Modelagem de Dados: levantamento de requisitos, DER e normalização do banco | SQL · Modelagem |
+| 🔐 **Criptografia em C** | Programa de cifra de César com séries e progressões (Fibonacci) | C |
+| ♻️ **Site de sustentabilidade** | Projeto web de 10 páginas sobre sustentabilidade e impacto social | HTML · CSS |
+
+---
+
+## 🐍 Minhas contribuições
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/henvsz/henvsz/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/henvsz/henvsz/output/github-snake.svg" />
+  <img alt="Cobrinha das contribuições" src="https://raw.githubusercontent.com/henvsz/henvsz/output/github-snake-dark.svg" />
+</picture>
+
+</div>
+
+---
+
+<div align="center">
+
+*"Primeiro entenda o problema. Depois escreva o código."*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,100:1e3a8a&height=100&section=footer" width="100%" />
+
+</div>
