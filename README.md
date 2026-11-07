@@ -64,6 +64,7 @@ const henrique = {
 | :--- | :--- | :--- |
 | 💎 **Sistema ERP — Sibels Elegance** | Projeto Integrador de Modelagem de Dados: levantamento de requisitos, DER e normalização do banco | SQL · Modelagem |
 | 🔐 **Criptografia em C** | Programa de cifra de César com séries e progressões (Fibonacci) | C |
+| 🐍 [**Jogo da Cobrinha**](https://henvsz.github.io/jogo-da-cobrinha/) | O clássico Snake recriado do zero: movimento, detalhes e pontuação | HTML · CSS · JavaScript |
 | ♻️ **Site de sustentabilidade** | Projeto web de 10 páginas sobre sustentabilidade e impacto social | HTML · CSS |
 
 ---
@@ -72,11 +73,17 @@ const henrique = {
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/henvsz/henvsz/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/henvsz/henvsz/output/github-snake.svg" />
-  <img alt="Cobrinha das contribuições" src="https://raw.githubusercontent.com/henvsz/henvsz/output/github-snake-dark.svg" />
-</picture>
+<a href="https://henvsz.github.io/jogo-da-cobrinha/">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/henvsz/henvsz/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/henvsz/henvsz/output/github-snake.svg" />
+    <img alt="Cobrinha das contribuições. Clique para jogar" src="https://raw.githubusercontent.com/henvsz/henvsz/output/github-snake-dark.svg" />
+  </picture>
+</a>
+
+<a href="https://henvsz.github.io/jogo-da-cobrinha/">
+  <img src="https://img.shields.io/badge/JOGAR%20O%20JOGO%20DA%20COBRINHA-60A5FA?style=for-the-badge&logo=javascript&logoColor=white" />
+</a>
 
 </div>
 
