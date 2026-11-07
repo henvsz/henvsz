@@ -81,6 +81,8 @@ const henrique = {
   </picture>
 </a>
 
+<br/>
+
 <a href="https://henvsz.github.io/jogo-da-cobrinha/">
   <img src="https://img.shields.io/badge/JOGAR%20O%20JOGO%20DA%20COBRINHA-60A5FA?style=for-the-badge&logo=javascript&logoColor=white" />
 </a>
@@ -89,6 +91,13 @@ const henrique = {
 
 ---
 
+<div align="center">
+
+*"Primeiro entenda o problema. Depois escreva o código."*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,100:1e3a8a&height=100&section=footer" width="100%" />
+
+</div>
 <div align="center">
 
 *"Primeiro entenda o problema. Depois escreva o código."*
