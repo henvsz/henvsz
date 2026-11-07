@@ -27,8 +27,6 @@ const henrique = {
   stack: ["HTML", "CSS", "Java", "C", "SQL"],
   estudando: "Análise e Desenvolvimento de Sistemas na UNICID",
   aprendendo: "Um pouco mais a cada dia 🚀",
-  curiosidade: "Quero criar meu próprio jogo da cobrinha 🐍",
-  contato: "SEU-EMAIL@gmail.com",
 };
 ```
 
