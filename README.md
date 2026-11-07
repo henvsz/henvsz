@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a8a,100:7c3aed&height=200&section=header&text=Henrique%20Vieira&fontSize=52&fontColor=ffffff&desc=Desenvolvedor%20%E2%80%A2%20Banco%20de%20Dados%20%E2%80%A2%20Front-End&descSize=18&descAlignY=68" width="100%" />
 
 <a href="https://github.com/henvsz">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&pause=1000&color=60A5FA&center=true&vCenter=true&width=520&lines=Desenvolvedor+apaixonado+por+dados;Estudante+de+An%C3%A1lise+e+Desenvolvimento+de+Sistemas;Sempre+aprendendo+e+evoluindo" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&pause=1000&color=60A5FA&center=true&vCenter=true&width=520&lines=Desenvolvedor+apaixonado+por+dados;Desenvolvimento+de+Sistemas;Sempre+aprendendo+e+evoluindo" alt="Typing SVG" />
 </a>
 
 <br/>
