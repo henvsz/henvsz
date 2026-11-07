@@ -98,10 +98,3 @@ const henrique = {
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,100:1e3a8a&height=100&section=footer" width="100%" />
 
 </div>
-<div align="center">
-
-*"Primeiro entenda o problema. Depois escreva o código."*
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,100:1e3a8a&height=100&section=footer" width="100%" />
-
-</div>
