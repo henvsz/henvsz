@@ -67,9 +67,9 @@ const henrique = {
 
 <a href="https://henvsz.github.io/jogo-da-cobrinha/">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/henvsz/henvsz/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/henvsz/henvsz/output/github-snake.svg" />
-    <img alt="Cobrinha das contribuições. Clique para jogar" src="https://raw.githubusercontent.com/henvsz/henvsz/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/henvsz/henvsz/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/henvsz/henvsz/output/github-contribution-grid-snake.svg" />
+    <img alt="Cobrinha das contribuições. Clique para jogar" src="https://raw.githubusercontent.com/henvsz/henvsz/output/github-contribution-grid-snake-dark.svg" />
   </picture>
 </a>
 
